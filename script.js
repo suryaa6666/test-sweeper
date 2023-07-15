@@ -20,5 +20,8 @@
         <a href="#"><i class="fab fa-twitter"></i></a>
         <a href="#"><i class="fab fa-instagram"></i></a>
     </section>
+    <script>
+        // Add JavaScript to handle any dynamic elements on the page.
+    </script>
 </body>
 </html>
